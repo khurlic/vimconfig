@@ -1,0 +1,45 @@
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundle/tabular"]
+	path = bundle/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "bundle/puppet"]
+	path = bundle/puppet
+	url = https://github.com/rodjek/vim-puppet.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "bundle/gpg"]
+	path = bundle/gpg
+	url = https://github.com/robertkrimen/vim-gnupg.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/dnstools"]
+	path = bundle/dnstools
+	url = https://github.com/stick/vim-dnstools.git
+[submodule "bundle/template"]
+	path = bundle/template
+	url = https://github.com/thinca/vim-template.git
+[submodule "bundle/bash"]
+	path = bundle/bash
+	url = https://github.com/vim-scripts/bash-support.vim.git
+[submodule "bundle/taskpaper"]
+	path = bundle/taskpaper
+	url = https://github.com/davidoc/taskpaper.vim.git
+[submodule "bundle/cf3"]
+	path = bundle/cf3
+	url = https://github.com/neilhwatson/vim_cf3.git
